@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug related to pointer arithmetic in C. The `bug.c` file contains the erroneous code, while `bugSolution.c` provides a corrected version.  The bug involves potential unexpected behavior arising from the way the pointer interacts with memory.
